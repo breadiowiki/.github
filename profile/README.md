@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/30072175/199655609-e58c7e16-1cad-491e-be98-4033dba188f9.png" alt="CaCatHead" height="150">
+  <a href="https://github.com/breadiowiki"><img src="https://avatars.githubusercontent.com/u/153929678" alt="Breadio" height="auto" width="200" style="border-radius:100px;"></a>
 </p>
 
 <h1 align="center">
   Breadio
 </h1>
 <p align="center">
-  Next-generation <strong>Embedded</strong> <strong>Wiki</strong> System with high <strong>Flexibility</strong> written in Modern Web Tech Stack.
+  Next-generation <strong>Embedded Wiki System</strong> with high <strong>Flexibility</strong> written in Modern Web Tech Stack.
 <p>
